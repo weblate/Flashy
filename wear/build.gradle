@@ -11,8 +11,8 @@ android {
         applicationId "rocks.poopjournal.flashy"
         minSdk 26
         targetSdk 33
-        versionCode 11
-        versionName "1.9"
+        versionCode 13
+        versionName "2.1"
 
     }
 
