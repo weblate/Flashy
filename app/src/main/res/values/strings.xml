@@ -25,15 +25,15 @@
     <string name="translate">Translate</string>
     <string name="dev">Developer</string>
     <string name="oss_licenses">Open-source licenses</string>
-    <string name="apache2">Apache License 2.0</string>
-    <string name="gpl2_ce">GNU General Public License, version 2, with the Classpath Exception</string>
-    <string name="mit">MIT License</string>
-    <string name="kotlin">Kotlin</string>
-    <string name="java">Java</string>
-    <string name="circular_seekbar">CircularSeekBar</string>
+    <string name="apache2" translatable="false>Apache License 2.0</string>
+    <string name="gpl2_ce" translatable="false>GNU General Public License, version 2, with the Classpath Exception</string>
+    <string name="mit" translatable="false>MIT License</string>
+    <string name="kotlin" translatable="false>Kotlin</string>
+    <string name="java" translatable="false>Java</string>
+    <string name="circular_seekbar" translatable="false>CircularSeekBar</string>
     <string name="md_icons">Material Design Icons</string>
     <string name="feather_icons">Feather Icons</string>
-    <string name="android_jetpack">Android Jetpack</string>
+    <string name="android_jetpack" translatable="false>Android Jetpack</string>
     <string name="no_app_can_handle">No app can handle this action.</string>
     <string name="no_flashlight">No flashlight</string>
     <string name="use_screen">Use screen</string>
@@ -49,7 +49,7 @@
     <string name="farnsworth_unit_length_explanation">"Farnsworth" timing makes recognizing the sound patterns easier by increasing the gaps between the characters and words to give more recognition time.\nA Farnsworth unit is longer than a basic unit.\nEnter your desired length of a Farnsworth unit below (must be longer than a basic unit: %d milliseconds).\nLeave blank to use the length of the basic unit plus an additional 25 percent of it.</string>
     <string name="learn_more_morse_timing">Learn more about Morse code timing</string>
     <string name="md3_subtext">Use Android 12 look and feel</string>
-    <string name="md3">Material Design 3</string>
+    <string name="md3" translatable="false>Material Design 3</string>
     <string name="no_flash_on_device_screen_off">Turn off flashlight when turning off device screen</string>
     <string name="no_flash_on_device_screen_off_subtext">Only works when the app is open</string>
 </resources>
