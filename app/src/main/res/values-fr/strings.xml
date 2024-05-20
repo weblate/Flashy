@@ -46,4 +46,6 @@
     <string name="apache2">Licence Apache 2.0</string>
     <string name="gpl2_ce">Licence publique générale GNU, version 2, avec exception Classpath</string>
     <string name="kotlin">Kotlin</string>
+    <string name="no_flash_when_screen">Désactiver la lampe de poche en mode écran</string>
+    <string name="java">Java</string>
 </resources>
