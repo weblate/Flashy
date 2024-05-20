@@ -25,11 +25,11 @@
     <string name="translate">Translate</string>
     <string name="dev">Developer</string>
     <string name="oss_licenses">Open-source licenses</string>
-    <string name="apache2" translatable="false" >Apache License 2.0</string>
+    <string name="apache2" translatable="false">Apache License 2.0</string>
     <string name="gpl2_ce" translatable="false" >GNU General Public License, version 2, with the Classpath Exception</string>
-    <string name="mit" translatable="false>MIT License</string>
-    <string name="kotlin" translatable="false" >Kotlin</string>
-    <string name="java" translatable="false>Java</string>
+    <string name="mit" translatable="false">MIT License</string>
+    <string name="kotlin" translatable="false">Kotlin</string>
+    <string name="java" translatable="false">Java</string>
     <string name="circular_seekbar" translatable="false">CircularSeekBar</string>
     <string name="md_icons">Material Design Icons</string>
     <string name="feather_icons">Feather Icons</string>
