@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="cannot_access_camera">ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱵᱟᱭ ᱜᱚᱱᱚᱜ ᱠᱟᱱᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱮᱴᱟᱜ ᱮᱯ ᱮ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ \?</string>
+    <string name="cannot_access_camera">ᱠᱮᱢᱨᱟ ᱟᱫᱮᱨ ᱵᱟᱭ ᱜᱚᱱᱚᱜ ᱠᱟᱱᱟ, ᱱᱚᱶᱟ ᱫᱚ ᱮᱴᱟᱜ ᱮᱯ ᱮ ᱵᱮᱵᱷᱟᱨ ᱮᱫᱟ ?</string>
     <string name="grant_permission">ᱦᱚᱠ ᱮᱢᱚᱜ ᱢᱮ</string>
     <string name="dark">ᱧᱩᱛ</string>
     <string name="maximize_screen_brightness">ᱥᱠᱨᱤᱱ ᱨᱮᱭᱟᱜ ᱡᱷᱟᱞᱠᱟᱣ ᱡᱟᱹᱥᱛᱤ ᱢᱮ</string>
