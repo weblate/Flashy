@@ -43,7 +43,7 @@
     <string name="feather_icons">Feather Icons</string>
     <string name="no_flash_on_device_screen_off_subtext">Sólo funciona cuando la aplicación está abierta</string>
     <string name="app_name">Flashy</string>
-    <string name="cannot_access_camera">No puedo acceder a la cámara, ¿está siendo utilizada por otra aplicación?</string>
+    <string name="cannot_access_camera">No se puede acceder a la cámara. ¿Está siendo utilizado por otra aplicación?</string>
     <string name="system_settings_permission_notice">Para cambiar el brillo de la pantalla a través del widget, es necesario conceder un permiso especial a la aplicación. Pulsa el botón de abajo para hacerlo.
 \n
 \nSalir sin conceder el permiso hará que no se añada el widget.</string>
