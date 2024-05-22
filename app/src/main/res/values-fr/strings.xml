@@ -48,4 +48,12 @@
     <string name="kotlin">Kotlin</string>
     <string name="no_flash_when_screen">Désactiver la lampe de poche en mode écran</string>
     <string name="java">Java</string>
+    <string name="sos">SOS</string>
+    <string name="farnsworth_unit_length_error">La durée d\'une unité Farnsworth doit être plus longue qu\'une unité normale.</string>
+    <string name="learn_more_morse_timing">En savoir plus sur les délais dans le code Morse</string>
+    <string name="md3_subtext">Utiliser l\'apparence et les interactions conçues pour Android 12</string>
+    <string name="farnsworth_unit_length_explanation">La méthode Farnsworth permet de reconnaître les motifs sonores plus facilement en augmentant le délai entre les lettres et entre les mots, ce qui laisse plus de temps pour les identifier.
+\nUne unité Farnsworth est plus longue qu\'une unité de base.
+\nÉcrivez ci-contre la longueur voulue pour votre unité Farnsworth (plus longue qu\'une unité de base : %d millisecondes).
+\nLaissez vide pour utiliser la longueur d\'une unité de base augmentée de 25%.</string>
 </resources>
