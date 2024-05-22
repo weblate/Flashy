@@ -3,7 +3,7 @@
     <string name="no_flashlight">Keine Taschenlampe</string>
     <string name="app_name">Flashy</string>
     <string name="flashlight">Taschenlampe</string>
-    <string name="cannot_access_camera">Kann nicht auf Kamera zugreifen. Wird sie von einer anderen App verwendet\?</string>
+    <string name="cannot_access_camera">Kann nicht auf Kamera zugreifen. Wird sie von einer anderen App verwendet?</string>
     <string name="maximize_screen_brightness">Volle Bildschirmhelligkeit</string>
     <string name="system_settings_permission_granted">Berechtigung erteilt. Sie können diese Meldung jetzt schließen.</string>
     <string name="settings">Einstellungen</string>
