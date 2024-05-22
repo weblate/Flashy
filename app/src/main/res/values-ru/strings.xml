@@ -29,7 +29,7 @@
     <string name="grant_permission">Дать разрешение</string>
     <string name="flashlight">Фонарик</string>
     <string name="no_camera">Нет камеры</string>
-    <string name="cannot_access_camera">Не удается получить доступ к камере, она используется другим приложением\?</string>
+    <string name="cannot_access_camera">Не удается получить доступ к камере, она используется другим приложением?</string>
     <string name="maximize_screen_brightness">Максимально увеличить яркость экрана</string>
     <string name="light">Светлая</string>
     <string name="no_flash_when_screen">Выключение фонарика в режиме экрана</string>
