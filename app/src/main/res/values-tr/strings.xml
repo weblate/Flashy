@@ -2,7 +2,7 @@
 <resources>
     <string name="flashlight">El feneri</string>
     <string name="no_camera">Kamera yok</string>
-    <string name="cannot_access_camera">Kameraya erişilemiyor, acaba başka bir uygulama tarafından mı kullanılıyor\?</string>
+    <string name="cannot_access_camera">Kameraya erişilemiyor, acaba başka bir uygulama tarafından mı kullanılıyor?</string>
     <string name="app_name">Göz Kamaştırıcı</string>
     <string name="grant_permission">İzin ver</string>
     <string name="maximize_screen_brightness">Ekran parlaklığını en üst düzeye çıkar</string>
