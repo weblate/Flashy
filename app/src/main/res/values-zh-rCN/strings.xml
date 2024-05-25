@@ -17,7 +17,7 @@
 \n留空，使用基本单位的长度加上额外的 25%。</string>
     <string name="flashlight">手电筒</string>
     <string name="no_camera">没有摄像头</string>
-    <string name="cannot_access_camera">无法访问摄像头，摄像头是否被其他应用程序使用？</string>
+    <string name="cannot_access_camera">无法访问摄像头。摄像头是否正被其他应用程序使用？</string>
     <string name="grant_permission">授予权限</string>
     <string name="maximize_screen_brightness">最大屏幕亮度</string>
     <string name="system_settings_permission_granted">授予许可。您现在可以退出此屏幕。</string>
