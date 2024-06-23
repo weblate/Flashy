@@ -1,4 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Flashy</string>
+    <string name="flashlight">Latarka</string>
+    <string name="no_camera">Brak aparatu</string>
+    <string name="cannot_access_camera">Nie można uzyskać dostępu do aparatu. Czy jest on używany przez inną aplikację?</string>
+    <string name="grant_permission">Udziel uprawnienia</string>
+    <string name="settings">Ustawienia</string>
+    <string name="general">Ogólne</string>
+    <string name="appearance">Wygląd</string>
+    <string name="theme">Motyw</string>
+    <string name="light">Jasny</string>
+    <string name="dark">Ciemny</string>
+    <string name="follow_system">Zgodny z systemowym</string>
+    <string name="version_license">Wersja %s - Licencja Apache 2.0</string>
+    <string name="dev">Deweloper</string>
+    <string name="report_problem">Zgłoś problem</string>
+    <string name="oss_licenses">Licencje typu open source</string>
+    <string name="feather_icons">Zestaw ikon Feather</string>
+    <string name="md_icons">Ikony Material Design</string>
+    <string name="sos">SOS</string>
+    <string name="no_flashlight">Brak latarki</string>
+    <string name="use_screen">Użyj ekranu</string>
+    <string name="words_per_min">Słowa na minutę</string>
+    <string name="words_per_min_error">Nieprawidłowa ilość słów</string>
+    <string name="turn_on_sos_now">Wyłącz sygnał SOS</string>
+    <string name="contribute">Pomóż w rozwoju projektu</string>
+    <string name="about">O aplikacji</string>
+    <string name="translate">Pomóż w tłumaczeniu</string>
+    <string name="source_code">Kod źródłowy</string>
 </resources>
