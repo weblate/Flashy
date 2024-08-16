@@ -7,7 +7,7 @@
     <string name="md3">Material Design 3</string>
     <string name="no_flash_when_screen">Išjunkite žibintuvėlio ekrano režimą</string>
     <string name="app_name">Flashy</string>
-    <string name="cannot_access_camera">Kamera nepasiekiama, ar ją naudoja kita programa\?</string>
+    <string name="cannot_access_camera">Kamera nepasiekiama, ar ją naudoja kita programa?</string>
     <string name="maximize_screen_brightness">Maksimaliai padidinti ekrano ryškumą</string>
     <string name="system_settings_permission_granted">Leidimas suteiktas. Dabar galite išeiti iš šio lango.</string>
     <string name="settings">Nustatymai</string>

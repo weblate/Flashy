@@ -6,7 +6,7 @@
 
 ### Simple & Privacy-Friendly Flashlight App
 
-[![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/Crazy-Marvin/Flashy/CI/development)](https://github.com/Crazy-Marvin/Flashy/actions)
+[![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Crazy-Marvin/Flashy/ci.yml?branch=development)](https://github.com/Crazy-Marvin/Flashy/actions)
 [![License](https://img.shields.io/github/license/Crazy-Marvin/Flashy.svg)](https://github.com/Crazy-Marvin/Flashy/blob/development/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/Crazy-Marvin/Flashy.svg?style=flat)](https://github.com/Crazy-Marvin/Flashy/commits)
 [![Releases](https://img.shields.io/github/downloads/Crazy-Marvin/Flashy/total.svg?style=flat)](https://github.com/Crazy-Marvin/Flashy/releases)

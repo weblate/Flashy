@@ -1,4 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Flashy</string>
+    <string name="follow_system">Følg systemet</string>
+    <string name="dark">Mørk</string>
+    <string name="light">Lys</string>
+    <string name="about">Om</string>
+    <string name="contribute">Bidra</string>
+    <string name="feather_icons">Fjærikoner</string>
+    <string name="words_per_min_error">Ugyldig antall ord</string>
+    <string name="sos">SOS</string>
+    <string name="turn_on_sos_now">Skru på SOS nå</string>
+    <string name="words_per_min">Ord per minutt</string>
+    <string name="no_flash_on_device_screen_off_subtext">Virker kun når programmet er åpent</string>
+    <string name="flashlight">Lommelykt</string>
+    <string name="no_camera">Mangler kamera</string>
+    <string name="grant_permission">Innvilg tilgang</string>
+    <string name="maximize_screen_brightness">Maksimer skjermlysstyrke</string>
+    <string name="appearance">Utseende</string>
+    <string name="theme">Drakt</string>
+    <string name="general">Generelt</string>
+    <string name="settings">Innstillinger</string>
+    <string name="source_code">Kildekode</string>
+    <string name="translate">Oversettelse</string>
+    <string name="dev">Utvikler</string>
+    <string name="report_problem">Rapporter problemer</string>
+    <string name="oss_licenses">Frie lisenser</string>
+    <string name="no_flashlight">Mangler lommelykt</string>
+    <string name="use_screen">Bruk skjerm</string>
+    <string name="version_license">Versjon %s · Apache 2.0-lisens</string>
+    <string name="no_app_can_handle">Ingen installerte programmer kan utføre denne handlingen.</string>
+    <string name="stroboscope_interval">Stroboskop-intervall</string>
+    <string name="farnsworth_unit_length">Farnsworth-enhetslengde</string>
+    <string name="use_farnsworth">Bruk Farnsworth-tidsinndeling</string>
+    <string name="md3_subtext">Bruk utseende og adferd fra Android 12</string>
+    <string name="farnsworth_unit_length_error">Farnsworth-enhetsvarighet må være lengre enn en normal enhet</string>
+    <string name="learn_more_morse_timing">Lær mer om Morsekodetidsinndeling</string>
+    <string name="no_flash_on_device_screen_off">Skru av lommelykt når enhetsskjerm slås av</string>
+    <string name="cannot_access_camera">Får ikke tilgang til kameraet. Er det i bruk av et annet program?</string>
+    <string name="system_settings_permission_granted">Tilgang innvilget. Du kan forlate denne skjermen nå.</string>
+    <string name="system_settings_permission_notice">For å endre skjermlysstyrke gjennom miniprogrammet må du innvilge programmet en spesialtilgang. Trykk på knappen nedenfor for å gjøre dette.
+\n
+\nÅ avslutte uten tilgangen medfører at miniprogrammet ikke blir lagt til.</string>
+    <string name="no_flash_when_screen">Skru av lommelykt i skjermmodus</string>
+    <string name="md_icons">Ikoner i materiell design</string>
+    <string name="words_per_min_explanation">Ord per minutt er hvor mange ganger forvalgsordet «Paris» kan sendes per minutt.
+\nDesto høyere hverdi, desto kortere lengde på hver «dit».
+\nMerk deg at denne innstillingen ikke tar hensyn til Farnsworth-tidsinnstilling.
+\nSkriv in ønsket verdi nedenfor.</string>
+    <string name="farnsworth_unit_length_explanation">Farnsworth-tidsinnstilling gjenkjenner lydmønsterne enklere ved å øke oppholdet mellom tegn og ord for å gi mer gjenkjennelsestid.
+\nEn Farnsworth-enhet er lengre enn en grunnenhet.
+\nSkriv inn ønsket lengde på Farnsworth-enhet nedenfor (må være høyere enn en grunnenhet: %d millisekunder).
+\nLa stå tomt for å bruke lengden for grunnenheten tillagt 25 prosent.</string>
 </resources>

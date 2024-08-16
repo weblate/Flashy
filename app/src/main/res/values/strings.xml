@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Flashy</string>
     <string name="flashlight">Flashlight</string>
     <string name="no_camera">No camera</string>
-    <string name="cannot_access_camera">Cannot access camera, is it being used by another app?</string>
+    <string name="cannot_access_camera">Cannot access the camera. Is it in use by another app?</string>
     <string name="grant_permission">Grant permission</string>
     <string name="maximize_screen_brightness">Maximize screen brightness</string>
     <string name="system_settings_permission_notice">To change screen brightness through the widget, a special permission needs to be granted to the app. Please press the button below to do so.\n\nExiting without granting the permission will cause the widget to not be added.</string>
@@ -26,7 +27,7 @@
     <string name="dev">Developer</string>
     <string name="oss_licenses">Open-source licenses</string>
     <string name="apache2" translatable="false">Apache License 2.0</string>
-    <string name="gpl2_ce" translatable="false" >GNU General Public License, version 2, with the Classpath Exception</string>
+    <string name="gpl2_ce" translatable="false">GNU General Public License, version 2, with the Classpath Exception</string>
     <string name="mit" translatable="false">MIT License</string>
     <string name="kotlin" translatable="false">Kotlin</string>
     <string name="java" translatable="false">Java</string>
