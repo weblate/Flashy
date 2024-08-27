@@ -28,4 +28,10 @@
     <string name="about">O aplikacji</string>
     <string name="translate">Pomóż w tłumaczeniu</string>
     <string name="source_code">Kod źródłowy</string>
+    <string name="system_settings_permission_granted">Udzielono uprawnień. Możesz teraz zamknąć ten ekran.</string>
+    <string name="no_app_can_handle">Żadna aplikacja nie może obsłużyć tego działania.</string>
+    <string name="md3_subtext">Korzystaj z wyglądu Androida 12</string>
+    <string name="no_flash_on_device_screen_off">Wyłącz latarkę kiedy ekran urządzenia jest wyłączany</string>
+    <string name="no_flash_on_device_screen_off_subtext">Działa tylko wtedy, gdy aplikacja jest otwarta</string>
+    <string name="no_flash_when_screen">Wyłącz latarkę w trybie świecenia ekranem</string>
 </resources>
