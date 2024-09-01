@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Parametros</string>
+    <string name="general">General</string>
+    <string name="appearance">Apparentia</string>
+    <string name="theme">Thema</string>
+    <string name="light">Clar</string>
+    <string name="dark">Obscur</string>
+    <string name="follow_system">Sequer le systema</string>
+    <string name="about">A proposito de</string>
+    <string name="version_license">Version %s - Licentia Apache 2.0</string>
+    <string name="contribute">Contribuer</string>
+    <string name="source_code">Codice fonte</string>
+    <string name="report_problem">Signalar un defecto</string>
+    <string name="translate">Traducer</string>
+    <string name="dev">Disveloppator</string>
+    <string name="oss_licenses">Licentias de codice aperte</string>
+    <string name="md_icons">Icones Material Design</string>
+    <string name="feather_icons">Icones Feather</string>
+    <string name="app_name">Flashy</string>
+    <string name="no_app_can_handle">Necun application pote gerer iste action.</string>
+</resources>
