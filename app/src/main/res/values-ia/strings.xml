@@ -22,4 +22,14 @@
     <string name="flashlight">Lanterna</string>
     <string name="no_camera">Sin camera</string>
     <string name="grant_permission">Conceder le permission</string>
+    <string name="no_flash_when_screen">Disactivar le lanterna in modo schermo</string>
+    <string name="use_screen">Usar le schermo</string>
+    <string name="sos">SOS</string>
+    <string name="no_flashlight">Sin lanterna</string>
+    <string name="words_per_min">Parolas per minuta</string>
+    <string name="words_per_min_error">Numero de parolas non valide</string>
+    <string name="turn_on_sos_now">Activar le SOS ora</string>
+    <string name="md3_subtext">Usar le apparentia de Android 12</string>
+    <string name="no_flash_on_device_screen_off">Disactivar le lantena al disactivar le schermo del apparato</string>
+    <string name="no_flash_on_device_screen_off_subtext">Solmente functiona quando le application es aperte</string>
 </resources>
