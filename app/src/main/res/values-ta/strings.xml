@@ -1,2 +1,46 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="system_settings_permission_granted">இசைவு வழங்கப்பட்டது. நீங்கள் இப்போது இந்த திரையில் இருந்து வெளியேறலாம்.</string>
+    <string name="general">பொது</string>
+    <string name="source_code">மூலக் குறியீடு</string>
+    <string name="report_problem">ஒரு சிக்கலைப் புகாரளிக்கவும்</string>
+    <string name="translate">மொழிபெயர்த்திடு</string>
+    <string name="dev">உருவாக்குநர்</string>
+    <string name="oss_licenses">திறந்த மூல உரிமங்கள்</string>
+    <string name="md_icons">பொருள் வடிவமைப்பு சின்னங்கள்</string>
+    <string name="feather_icons">இறகு சின்னங்கள்</string>
+    <string name="no_app_can_handle">இந்த செயலை எந்த பயன்பாடும் கையாள முடியாது.</string>
+    <string name="sos">சோச்</string>
+    <string name="app_name">ஒளிரும்</string>
+    <string name="flashlight">ஒளிரும் விளக்கு</string>
+    <string name="no_camera">கேமரா இல்லை</string>
+    <string name="cannot_access_camera">கேமராவை அணுக முடியாது. இது மற்றொரு பயன்பாட்டின் பயன்பாட்டில் உள்ளதா?</string>
+    <string name="grant_permission">இசைவு வழங்கவும்</string>
+    <string name="maximize_screen_brightness">திரை பிரகாசத்தை அதிகரிக்கவும்</string>
+    <string name="system_settings_permission_notice">விட்செட் மூலம் திரை பிரகாசத்தை மாற்ற, பயன்பாட்டிற்கு ஒரு சிறப்பு இசைவு வழங்கப்பட வேண்டும். அவ்வாறு செய்ய கீழே உள்ள பொத்தானை அழுத்தவும்.\n\n இசைவு வழங்காமல் வெளியேறுவது விட்செட்டை சேர்க்கக்கூடாது.</string>
+    <string name="settings">அமைப்புகள்</string>
+    <string name="appearance">தோற்றம்</string>
+    <string name="theme">கருப்பொருள்</string>
+    <string name="light">ஒளி</string>
+    <string name="dark">இருண்ட</string>
+    <string name="follow_system">அமைப்பைப் பின்தொடரவும்</string>
+    <string name="no_flash_when_screen">திரை பயன்முறையில் ஒளிரும் விளக்கை அணைக்கவும்</string>
+    <string name="about">பற்றி</string>
+    <string name="version_license">பதிப்பு %s · அப்பாச்சி உரிமம் 2.0</string>
+    <string name="contribute">பங்களிப்பு</string>
+    <string name="no_flashlight">ஒளிரும் விளக்கு இல்லை</string>
+    <string name="use_screen">திரையைப் பயன்படுத்தவும்</string>
+    <string name="stroboscope_interval">ச்ட்ரோபோச்கோப் இடைவெளி</string>
+    <string name="words_per_min">நிமிடத்திற்கு வார்த்தைகள்</string>
+    <string name="words_per_min_error">சொற்களின் தவறான எண்ணிக்கை</string>
+    <string name="words_per_min_explanation">நிமிடத்திற்கு ஒரு நிமிடத்திற்கு எத்தனை மடங்கு நிலையான வார்த்தையை அனுப்ப முடியும் என்பதுதான் நிமிடத்திற்கு சொற்கள்.\n அதிக மதிப்பு, ஒவ்வொன்றின் நீளமும் குறைவு\n இந்த அமைப்பு ஃபார்ன்ச்வொர்த் நேரத்தை கணக்கில் எடுத்துக்கொள்ளாது என்பதை நினைவில் கொள்க.\n நீங்கள் விரும்பிய எண்ணை கீழே உள்ளிடவும்.</string>
+    <string name="use_farnsworth">ஃபார்ன்ச்வொர்த் நேரத்தைப் பயன்படுத்தவும்</string>
+    <string name="turn_on_sos_now">இப்போது SOS ஐ இயக்கவும்</string>
+    <string name="farnsworth_unit_length">ஃபார்ன்ச்வொர்த் அலகு நீளம்</string>
+    <string name="farnsworth_unit_length_error">ஃபார்ன்ச்வொர்த் அலகு காலம் ஒரு சாதாரண அலகு விட நீண்டதாக இருக்க வேண்டும்</string>
+    <string name="farnsworth_unit_length_explanation">ஃபார்ன்ச்வொர்த் நேரம் அதிக அங்கீகார நேரத்தை வழங்குவதற்காக எழுத்துக்களுக்கும் சொற்களுக்கும் இடையிலான இடைவெளிகளை அதிகரிப்பதன் மூலம் ஒலி வடிவங்களை அங்கீகரிப்பதை எளிதாக்குகிறது.\n ஒரு ஃபார்ன்ச்வொர்த் அலகு ஒரு அடிப்படை அலகு விட நீளமானது.\n கீழே ஒரு ஃபார்ன்ச்வொர்த் அலகு நீங்கள் விரும்பிய நீளத்தை உள்ளிடவும் (ஒரு அடிப்படை அலகு விட நீண்டதாக இருக்க வேண்டும்: %d மில்லி விநாடிகள்).\n அடிப்படை அலகு நீளத்தையும், அதில் கூடுதலாக 25 சதவீதத்தையும் பயன்படுத்த காலியாக விடவும்.</string>
+    <string name="learn_more_morse_timing">மோர்ச் குறியீடு நேரம் பற்றி மேலும் அறிக</string>
+    <string name="md3_subtext">ஆண்ட்ராய்டு 12 தோற்றத்தையும் உணர்வையும் பயன்படுத்தவும்</string>
+    <string name="no_flash_on_device_screen_off">சாதனத் திரையை அணைக்கும்போது ஒளிரும் விளக்கை அணைக்கவும்</string>
+    <string name="no_flash_on_device_screen_off_subtext">பயன்பாடு திறந்திருக்கும் போது மட்டுமே செயல்படும்</string>
+</resources>
