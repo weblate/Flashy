@@ -1,2 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="words_per_min_explanation">Слова за хвилину — це кількість разів, скільки стандартне слово \"PARIS\" може бути передано за хвилину. \nЧим вище значення, тим коротша тривалість кожного \"dit\". \nЗверніть увагу, що ця настройка не враховує час Фарнсворта. \nВведіть бажане число нижче.</string>
+    <string name="app_name">Flashy</string>
+    <string name="flashlight">Ліхтарик</string>
+    <string name="no_camera">Немає камери</string>
+    <string name="cannot_access_camera">Неможливо отримати доступ до камери. Чи використовується вона іншою програмою?</string>
+    <string name="grant_permission">Надати дозвіл</string>
+    <string name="maximize_screen_brightness">Максимально збільшити яскравість екрана</string>
+    <string name="system_settings_permission_granted">Дозвіл надано. Тепер ви можете вийти з цього екрана.</string>
+    <string name="settings">Налаштування</string>
+    <string name="general">Загальні</string>
+    <string name="appearance">Зовнішній вигляд</string>
+    <string name="theme">Тема</string>
+    <string name="light">Світла</string>
+    <string name="dark">Темна</string>
+    <string name="follow_system">Системна</string>
+    <string name="about">Про програму</string>
+    <string name="version_license">Версія %s · Ліцензія Apache 2.0</string>
+    <string name="contribute">Внести внесок</string>
+    <string name="source_code">Джерельний код</string>
+    <string name="report_problem">Повідомити про проблему</string>
+    <string name="translate">Перекласти</string>
+    <string name="dev">Розробник</string>
+    <string name="oss_licenses">Ліцензії з відкритим кодом</string>
+    <string name="md_icons">Іконки Material Design</string>
+    <string name="feather_icons">Іконки Feather</string>
+    <string name="no_flashlight">Немає ліхтарика</string>
+    <string name="use_screen">Використовувати екран</string>
+    <string name="sos">SOS</string>
+    <string name="stroboscope_interval">Інтервал стробоскопа</string>
+    <string name="words_per_min">Слів за хвилину</string>
+    <string name="use_farnsworth">Використовувати час Фарнсворта</string>
+    <string name="turn_on_sos_now">Увімкнути SOS зараз</string>
+    <string name="farnsworth_unit_length">Довжина одиниці Фарнсворта</string>
+    <string name="farnsworth_unit_length_error">Тривалість одиниці Фарнсворта повинна бути довшою за нормальну одиницю</string>
+    <string name="farnsworth_unit_length_explanation">Час Фарнсворта полегшує розпізнавання звукових шаблонів, збільшуючи проміжки між символами та словами, щоб дати більше часу на розпізнавання.  \nОдиниця Фарнсворта довша за основну одиницю.  \nВведіть бажану довжину одиниці Фарнсворта нижче (вона повинна бути довшою за основну одиницю: %d мілісекунд).  \nЗалиште поле порожнім, щоб використовувати довжину основної одиниці з додатковими 25 відсотками.</string>
+    <string name="system_settings_permission_notice">Щоб змінювати яскравість екрана через віджет, додатку потрібно надати спеціальний дозвіл. Будь ласка, натисніть кнопку нижче, щоб зробити це. \n\nВихід без надання дозволу призведе до того, що віджет не буде додано.</string>
+    <string name="no_flash_when_screen">Вимкнути ліхтарик в режимі екрана</string>
+    <string name="words_per_min_error">Невірна кількість слів</string>
+    <string name="no_app_can_handle">Жоден додаток не може обробити цю дію.</string>
+</resources>
